@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Other files
+.amlignore
+.amlignore.amltmp
+
 # C extensions
 *.so
 
