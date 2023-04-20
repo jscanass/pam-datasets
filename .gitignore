@@ -6,6 +6,7 @@ __pycache__/
 # Other files
 .amlignore
 .amlignore.amltmp
+.ipynb_aml_checkpoints/
 
 # C extensions
 *.so
