@@ -81,9 +81,10 @@ python baseline/evaluate.py --config  baseline/configs/exp_resnet18.yaml
 
 7. Visualize results: Run notebook  (TODO)
 
-
-
 ## Similar projects
 
 - http://opensoundscape.org/en/latest/
 - https://github.com/shyamblast/Koogu
+
+## Acknowledgments
+The authors acknowledge financial support from the intergovernmental Group on Earth Observations (GEO) and Microsoft, under the GEO-Microsoft Planetary Computer Programme (October 2021).
