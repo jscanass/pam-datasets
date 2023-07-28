@@ -88,3 +88,8 @@ python baseline/evaluate.py --config  baseline/configs/exp_resnet18.yaml
 
 ## Acknowledgments
 The authors acknowledge financial support from the intergovernmental Group on Earth Observations (GEO) and Microsoft, under the GEO-Microsoft Planetary Computer Programme (October 2021).
+
+## Contact
+
+- Juan Sebastián Ulloa (julloa@humboldt.org.co, [juansulloa](https://github.com/juansulloa))
+- Juan Sebastián Cañas (jcanas@humboldt.org.co, [jscanass](https://github.com/jscanass))
